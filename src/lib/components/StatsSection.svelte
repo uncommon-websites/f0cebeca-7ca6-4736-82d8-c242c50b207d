@@ -1,24 +1,24 @@
 <script lang="ts">
   const stats = [
     {
-      label: "30+ People",
-      desc: "You're a small, but mighty team of curious problem-solvers and explorers. With a versatile, Swiss-knife mentality, we thrive on tackling diverse challenges. Our core team is tight-knit, yet we seamlessly tap into a wider network of experts when needed. Here, theory meets practice, and together, we get things done.",
-      img: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=200"
+      label: "500K+ Students",
+      desc: "We're building toward a community of half a million producers worldwide. From bedroom beginners to artists signing their first releases, our students span every level and genre of electronic music production. Join a global network of creators who support each other's growth.",
+      img: "/generated/image-a-diverse-group-of-young-producers-colla-1765518195819-3.webp"
     },
     {
-      label: "14+ Awards",
-      desc: "Our work speaks for itself—recognized internationally, we've already earned some awards. These accolades reflect the passion and innovation we pour into every project, pushing boundaries and delivering results that make an impact.",
-      img: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=200"
+      label: "85% Completion Rate",
+      desc: "Unlike typical online courses with 5-10% completion rates, our structured curriculum and community support keep students engaged. We focus on finishing tracks, not just watching videos—because completed music is what transforms bedroom producers into artists.",
+      img: "/generated/image-a-young-producer-having-a-breakthrough-m-1765518200379-4.webp"
     },
     {
-      label: "CGN, BLN, Remote",
-      desc: "Headquartered in Cologne, with an expanding team in Berlin, we also embrace remote work. Our colleagues span across cities like Barcelona, Stuttgart, Munich, and more, bringing a mix of perspectives and expertise to everything we do. Whether in the office or working remotely, we stay connected and collaborative.",
-      img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=200"
+      label: "$4.2B Market",
+      desc: "The music education market is massive and growing. We're capturing this opportunity by offering what bedroom producers actually need: practical, arrangement-first training that cuts through gear obsession and gets you making music that matters.",
+      img: "/generated/image-a-confident-music-producer-in-headphones-1765518187400-1.webp"
     },
     {
-      label: "B-Corp",
-      desc: "We've officially joined the ranks of B-Corp certified companies. This means we meet the highest standards of social and environmental performance, accountability, and transparency. We're proud to use business as a force for good, ensuring our impact extends beyond just profit.",
-      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/B_Corp_Logo.svg/1200px-B_Corp_Logo.svg.png" // Placeholder
+      label: "Producer-Taught",
+      desc: "Every course is created and taught by working producers with real releases and industry experience. No academic theory without context—just proven workflows and techniques that actually work in today's music landscape.",
+      img: "/generated/image-a-music-producer-teaching-online-speakin-1765518208873-6.webp"
     }
   ];
 </script>
@@ -26,7 +26,7 @@
 <section class="py-24 px-6 md:px-12 bg-white border-t border-gray-100">
   <div class="mb-16">
     <p class="text-gray-500 max-w-xl">
-      Curious about who we are? Here's a snapshot of the team, our achievements, and the milestones we're proud of.
+      Curious about our impact? Here's a snapshot of our community, our approach, and the results we're proud of.
     </p>
   </div>
 

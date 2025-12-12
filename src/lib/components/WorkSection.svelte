@@ -1,53 +1,53 @@
 <script lang="ts">
   const projects = [
     {
-      client: "Red Bull",
-      desc: "A global platform built to Scale, Evolve, and Perform.",
-      bg: "bg-[#000c2d]",
-      img: "", // Placeholder logic handled in template
+      client: "Music Production Fundamentals",
+      desc: "Master the core concepts every producer needs to know.",
+      bg: "bg-black",
+      img: "/generated/image-a-focused-young-music-producer-working-o-1765518181997-0.webp",
       dark: true
     },
     {
-      client: "Volvo",
-      desc: "Redefining how people experience insurance.",
+      client: "Arrangement & Song Structure",
+      desc: "Learn to build tracks that keep listeners engaged from start to finish.",
       bg: "bg-gray-200",
-      img: "https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?auto=format&fit=crop&q=80&w=800",
+      img: "/generated/image-a-confident-music-producer-in-headphones-1765518187400-1.webp",
       dark: false
     },
     {
-      client: "The Organics",
-      desc: "Translating a refreshing identity into a bold platform.",
-      bg: "bg-[#8da356]",
-      img: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=800",
+      client: "Sound Design Mastery",
+      desc: "Create unique sounds that define your signature style.",
+      bg: "bg-gray-900",
+      img: "/generated/image-a-laptop-screen-showing-a-digital-audio--1765518221244-9.webp",
       dark: false
     },
     {
-      client: "Isar Aerospace",
-      desc: "Launching a brand journey into orbit.",
+      client: "Mixing & Mastering",
+      desc: "Polish your tracks to professional, release-ready quality.",
       bg: "bg-black",
       img: "",
       dark: true
     },
     {
-      client: "REWE",
-      desc: "Digital Convenience in your Pocket.",
+      client: "Creative Workflow Systems",
+      desc: "Build habits and systems that help you finish more tracks, faster.",
       bg: "bg-[#f0f0f0]",
-      img: "https://images.unsplash.com/photo-1512428559087-560fa5ce7d87?auto=format&fit=crop&q=80&w=800",
+      img: "/generated/image-a-bedroom-producers-workspace-with-midi--1765518212947-7.webp",
       dark: false,
-      full: true // Making REWE full width to align last two items
+      full: true
     },
     {
-      client: "Alpha Tauri",
-      desc: "Designing the interface of wearable intelligence.",
+      client: "Genre-Specific Production",
+      desc: "Deep dives into house, techno, bass music, and more.",
       bg: "bg-[#e0e0e0]",
-      img: "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&q=80&w=800",
+      img: "/generated/image-a-professional-music-producer-performing-1765518191556-2.webp",
       dark: false
     },
     {
-      client: "Zalando",
-      desc: "Designing the Zalando E-Commerce Operating System.",
-      bg: "bg-[#d8c5f0]",
-      img: "https://images.unsplash.com/photo-1555421689-49263376da7a?auto=format&fit=crop&q=80&w=800",
+      client: "Release Strategy",
+      desc: "Navigate labels, distribution, and building your artist brand.",
+      bg: "bg-gray-100",
+      img: "",
       dark: false
     }
   ];
@@ -56,7 +56,7 @@
 <section class="px-6 md:px-12 py-24 bg-white">
   <div class="max-w-3xl mb-16">
     <h2 class="text-2xl md:text-3xl font-medium leading-tight">
-      <span class="font-bold">We orchestrate strategy, design, and technology</span> to create digital experiences that connect with millions and give you the edge that sets you apart.
+      <span class="font-bold">We teach arrangement fundamentals first,</span> helping you overcome gear obsession and technical overwhelm so you can focus on what matters: finishing tracks that showcase your unique sound.
     </h2>
   </div>
 
@@ -67,9 +67,9 @@
           {#if project.img}
              <img src={project.img} alt={project.client} class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
           {:else}
-             <!-- Placeholder for logos on solid bg -->
+             <!-- Placeholder for course graphics on solid bg -->
              <div class="w-full h-full flex items-center justify-center">
-                <span class={`text-2xl font-bold ${project.dark ? 'text-white' : 'text-black'}`}>{project.client} Logo</span>
+                <span class={`text-2xl font-bold ${project.dark ? 'text-white' : 'text-black'}`}>{project.client}</span>
              </div>
           {/if}
         </div>

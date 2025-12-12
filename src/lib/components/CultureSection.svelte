@@ -1,19 +1,19 @@
 <script lang="ts">
   const cards = [
     {
-      title: "We're Not Just a Vendor...",
-      subtitle: "We're Your Partner In Crime.",
-      image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800"
+      title: "We're Not Just Teachers...",
+      subtitle: "We're Working Producers.",
+      image: "/generated/image-a-diverse-group-of-young-producers-colla-1765518195819-3.webp"
     },
     {
-      title: "We Don't Just Follow Trends...",
-      subtitle: "We Shape New Territories.",
-      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=800"
+      title: "We Don't Just Share Theory...",
+      subtitle: "We Show Real Workflows.",
+      image: "/generated/image-a-young-producer-having-a-breakthrough-m-1765518200379-4.webp"
     },
     {
-      title: "We Don't Play By The Book...",
-      subtitle: "We Write It Together.",
-      image: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800"
+      title: "We Don't Just Teach...",
+      subtitle: "We Build Community.",
+      image: "/generated/image-a-mentor-and-student-reviewing-music-pro-1765518204623-5.webp"
     }
   ];
 </script>
@@ -21,7 +21,7 @@
 <section class="py-24 px-6 md:px-12 bg-white">
   <div class="max-w-2xl mb-16">
     <p class="text-xl md:text-2xl leading-relaxed text-gray-800">
-      Collaboration isn't just a buzzword—it's how we roll. We're not here to hand off some cookie-cutter deliverable and disappear; we're in it with you, from day one.
+      Learning production isn't about collecting more tutorials—it's about structured guidance from producers who've been where you are. We're here to help you break through creative blocks and finally finish tracks.
     </p>
   </div>
 

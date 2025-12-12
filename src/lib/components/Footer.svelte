@@ -1,20 +1,23 @@
 <footer class="bg-white px-6 md:px-12 pb-32 pt-12">
   <div class="flex flex-col md:flex-row justify-between items-start mb-24">
-    <div class="mb-8 md:mb-0">
-      <h2 class="text-2xl font-bold tracking-tighter">DAYY</h2>
+    <div class="mb-8 md:mb-0 flex items-center gap-3">
+      <svg width="32" height="32" viewBox="0 0 102 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M53.9855 0.57497C51.6964 -0.191657 50.2957 -0.191657 48.0067 0.57497C42.4225 2.44516 42.6648 14.2805 44.3903 25.9576C40.0215 14.992 34.2902 4.63408 28.5217 5.81953C26.1571 6.30547 24.9457 7.00856 23.3507 8.8206C19.5149 13.1784 25.4376 23.0701 32.6517 32.1958C23.5102 25.0018 13.6055 19.1008 9.25609 22.9462C7.44755 24.5451 6.74713 25.7581 6.26638 28.1238C5.10159 33.8556 15.3235 39.5256 26.2152 43.8592C14.616 42.1656 2.92853 41.9645 1.07106 47.5106C0.304437 49.7996 0.304437 51.2004 1.07106 53.4894C2.92853 59.0355 14.616 58.8344 26.2152 57.1408C15.3234 61.4744 5.10154 67.1444 6.26634 72.8762C6.74708 75.2419 7.44751 76.4549 9.25604 78.0538C13.6054 81.8991 23.5099 75.9984 32.6513 68.8045C25.4374 77.9301 19.5148 87.8216 23.3506 92.1794C24.9455 93.9914 26.157 94.6945 28.5216 95.1805C34.2901 96.3659 40.0215 86.0077 44.3904 75.0419C42.6648 86.7191 42.4225 98.5548 48.0067 100.425C50.2957 101.192 51.6964 101.192 53.9855 100.425C59.5698 98.5548 59.3274 86.7187 57.6017 75.0412C61.9706 86.0072 67.7021 96.366 73.4708 95.1805C75.8354 94.6945 77.0468 93.9914 78.6418 92.1794C82.4775 87.8216 76.555 77.9301 69.341 68.8045C78.4825 75.9984 88.387 81.8991 92.7363 78.0538C94.5448 76.4549 95.2453 75.2419 95.726 72.8762C96.8908 67.1445 86.669 61.4744 75.7772 57.1408C87.3764 58.8344 99.0637 59.0355 100.921 53.4894C101.688 51.2004 101.688 49.7997 100.921 47.5106C99.0637 41.9645 87.3764 42.1656 75.7772 43.8592C86.669 39.5256 96.8908 33.8555 95.726 28.1238C95.2452 25.7581 94.5448 24.5451 92.7363 22.9462C88.3869 19.1008 78.4822 25.0018 69.3407 32.1958C76.5548 23.0701 82.4774 13.1784 78.6416 8.8206C77.0467 7.00856 75.8352 6.30547 73.4706 5.81953C67.702 4.63406 61.9707 14.9924 57.6017 25.9582C59.3274 14.2809 59.5697 2.4452 53.9855 0.57497Z" fill="black"/>
+      </svg>
+      <h2 class="text-2xl font-bold tracking-tighter">EDMProd</h2>
     </div>
 
     <div class="grid grid-cols-2 gap-x-12 gap-y-8 text-[10px] uppercase tracking-wide text-gray-500">
       <div class="flex flex-col gap-2">
-        <a href="#" class="hover:text-black">LinkedIn</a>
+        <a href="#" class="hover:text-black">YouTube</a>
         <a href="#" class="hover:text-black">Instagram</a>
       </div>
       <div class="flex flex-col gap-2">
-        <a href="#" class="hover:text-black">Imprint</a>
-        <a href="#" class="hover:text-black">Privacy</a>
+        <a href="#" class="hover:text-black">Discord</a>
+        <a href="#" class="hover:text-black">Facebook</a>
       </div>
       <div class="col-span-2">
-        <p>© 2024 DAYY GmbH</p>
+        <p>© 2024 EDMProd</p>
         <p>All Rights Reserved.</p>
       </div>
     </div>
@@ -22,7 +25,7 @@
 
   <div class="text-center md:text-left">
     <h1 class="text-[10vw] leading-none font-bold tracking-tighter text-black text-center">
-      LET'S RETHINK TOMORROW.
+      TRANSFORM YOUR SOUND.
     </h1>
   </div>
 </footer>
